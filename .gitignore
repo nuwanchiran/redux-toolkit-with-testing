@@ -1,0 +1,3 @@
+*.DS_store
+*yarn-error.log
+*yarn.lock
